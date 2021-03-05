@@ -1,4 +1,4 @@
-package com.example.app.exception;
+package com.example.app.core.exception;
 
 import static org.springframework.http.HttpStatus.NOT_FOUND;
 

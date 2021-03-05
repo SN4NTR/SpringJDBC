@@ -4,7 +4,7 @@ import com.example.app.cat.dao.CatDao;
 import com.example.app.cat.model.Cat;
 import com.example.app.cat.model.converter.CatConverter;
 import com.example.app.cat.model.dto.CatDto;
-import com.example.app.exception.EntityNotFoundException;
+import com.example.app.core.exception.EntityNotFoundException;
 import java.util.List;
 import javax.validation.constraints.NotNull;
 import lombok.AllArgsConstructor;
